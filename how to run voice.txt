@@ -1,0 +1,15 @@
+how to run steps
+
+open anaconda promt from search 
+
+type 
+
+conda activate tf ( enter ) 
+
+type 
+
+cd voicemeeting ( enter ) 
+
+type 
+
+python app.py  ( enter you will get ip address copy and paset on chrome website will open )
